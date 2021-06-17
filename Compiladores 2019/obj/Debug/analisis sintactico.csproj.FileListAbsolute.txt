@@ -1,0 +1,10 @@
+C:\Users\marco\Downloads\analisis sintactico\analisis sintactico\Compiladores 2019\bin\Debug\analisis sintactico.exe.config
+C:\Users\marco\Downloads\analisis sintactico\analisis sintactico\Compiladores 2019\bin\Debug\analisis sintactico.exe
+C:\Users\marco\Downloads\analisis sintactico\analisis sintactico\Compiladores 2019\bin\Debug\analisis sintactico.pdb
+C:\Users\marco\Downloads\analisis sintactico\analisis sintactico\Compiladores 2019\obj\Debug\analisis sintactico.csprojAssemblyReference.cache
+C:\Users\marco\Downloads\analisis sintactico\analisis sintactico\Compiladores 2019\obj\Debug\Compiladores_2019.Form1.resources
+C:\Users\marco\Downloads\analisis sintactico\analisis sintactico\Compiladores 2019\obj\Debug\analisis_sintactico.Properties.Resources.resources
+C:\Users\marco\Downloads\analisis sintactico\analisis sintactico\Compiladores 2019\obj\Debug\analisis sintactico.csproj.GenerateResource.cache
+C:\Users\marco\Downloads\analisis sintactico\analisis sintactico\Compiladores 2019\obj\Debug\analisis sintactico.csproj.CoreCompileInputs.cache
+C:\Users\marco\Downloads\analisis sintactico\analisis sintactico\Compiladores 2019\obj\Debug\analisis sintactico.exe
+C:\Users\marco\Downloads\analisis sintactico\analisis sintactico\Compiladores 2019\obj\Debug\analisis sintactico.pdb
